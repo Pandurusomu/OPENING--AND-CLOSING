@@ -54,17 +54,20 @@ cv2.destroyAllWindows()
 ## Output:
 
 ### Display the input Image
-![Screenshot 2025-05-19 185911](https://github.com/user-attachments/assets/8b735037-0a11-4621-bef7-f5a58b4570a1)
+<img width="734" height="152" alt="image" src="https://github.com/user-attachments/assets/5a101e32-078c-4ba5-8c70-e2b27b00176f" />
+
 
 
 
 ### Display the result of Opening
-![Screenshot 2025-05-19 185952](https://github.com/user-attachments/assets/87b02e65-085f-4cc9-b7a9-1e2e3b39a6a3)
+<img width="800" height="134" alt="image" src="https://github.com/user-attachments/assets/32d93387-9a73-45aa-9aa8-af689be473d9" />
+
 
 
 ### Display the result of Closing
+<img width="730" height="130" alt="image" src="https://github.com/user-attachments/assets/72848674-f318-4d7e-a48b-9fb05e8b7d58" />
 
-![Screenshot 2025-05-19 190000](https://github.com/user-attachments/assets/5642c11c-fa90-4c3c-9432-11ee5074474e)
+
 
 
 
